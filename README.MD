@@ -1,3 +1,6 @@
+conekta-woocommerce
+===================
+
 Wocommerce Conekta.io plugin (solo pago con tarjeta)
 
 Este plugin utiliza el formulario de pago con tarjeta integrado en woocommerce plugin.
